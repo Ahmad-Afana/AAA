@@ -1,0 +1,34 @@
+body{
+    margin-top: 80px;
+}
+
+
+
+.h1-in-my-project{
+    color:red ;
+    text-align: center;
+    font-size: xx-large;
+
+}
+
+.p1-in-my-project{
+font-size: x-large;
+color: blue;
+text-align: center;
+}
+
+.button1-in-my-project{
+    background-color: #ffff;
+    width:100px;
+    height: 50px;
+    border-radius: 50px;
+    border: solid 0.5px;
+    text-align: center;
+    margin-left:710px;
+}
+
+.button1-in-my-project:hover{
+    background-color: rgb(0, 0, 0);
+    color: #ffff;
+    box-shadow: 5px 5px 5px 5px;    
+}
